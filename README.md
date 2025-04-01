@@ -2,14 +2,12 @@
 
 ###
 
-<h4 align="left">A little more about me...</h4>
-
-###
+### A little more about me...
 
 <p align="left">- ⚡  I love math, programming, data science, and books<br>- 🌎 I  addicted to learning and growing every day<br>- 💬 Ask me about Python<br>- 😎 Extremely funny<br>- ⚡  Fun fact: Computer is DUMB...!!<br>- 🤪 Love to solve errors in code</p>
 
 ###
-
+## 💻 Languages and Tools:
 <div align="left" style="display: flex; width: 100%; justify-content: space-between; align-items: center;">
   <!-- Gif Image -->
   <div style="flex: 1; padding-right: 20px;">
@@ -92,7 +90,7 @@
 </div>
 
 ###
-
+##  🐠 Git Stats:
 <div align="left">
   <div style="display: flex; width: 100%; justify-content: space-around; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=sandip-3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" style="height: 160px; width: auto; alt="stats graph" />
@@ -110,6 +108,7 @@
 ## 😜Here's a Joke for you:
 <div style="width :100%"><img style="width :100%"  src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
 
+## 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/sandip-poudel-77a2a829a">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
