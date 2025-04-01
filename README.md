@@ -13,7 +13,7 @@
 <div align="left" style="display: flex; width: 100%; justify-content: space-between; align-items: center;">
   <!-- Gif Image -->
   <div style="flex: 1; padding-right: 20px;">
-    <img align="right" height="150" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" />
+    <img align="right" height="160" width="120" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" />
   </div>
   
   <!-- Table inside a flex container -->
@@ -97,11 +97,10 @@
   <div style="display: flex; width: 100%; justify-content: space-around; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=sandip-3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" style="height: 160px; width: auto; alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandip-3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&exclude_repo=repo1,repo2&hide=jupyter%20notebook" style="height: 160px; width: auto;" alt="languages graph" />
-<img align="right" height="160" width="120" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" />
+    <img align="right" height="150" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" />
   </div>
-<div style="width: 100%; display: flex; justify-content: center;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sandip-3&theme=dark&hide_border=false" style="width: 100%; max-width: 100%;" />
-</div>
+
+  <img align="left" height='150'  src="https://nirzak-streak-stats.vercel.app/?user=sandip-3&theme=dark&hide_border=false" />
 
   <img align='center' src="https://github-profile-trophy.vercel.app?username=sandip-3&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
