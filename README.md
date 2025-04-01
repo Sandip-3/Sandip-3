@@ -68,6 +68,9 @@
           <td align="center" width="6%">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" width="auto" alt="C programming logo" />
           </td>
+          <td align="center" width="6%">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" width="auto" alt="Next.js logo" />
+          </td>
         </tr>
         <tr>
           <td align="center" width="6%">
@@ -81,9 +84,6 @@
           </td>
           <td align="center" width="6%">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="60" width="auto" alt="Tailwind CSS logo" />
-          </td>
-          <td align="center" width="6%">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" width="auto" alt="Next.js logo" />
           </td>
         </tr>
       </tbody>
