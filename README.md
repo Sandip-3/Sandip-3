@@ -42,11 +42,11 @@
           <td align="center" width="6%">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
           </td>
-        </tr>
-        <tr>
           <td align="center" width="6%">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="60" alt="ruby logo" />
           </td>
+        </tr>
+        <tr>
           <td align="center" width="6%">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
           </td>
@@ -65,6 +65,9 @@
           <td align="center" width="6%">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="60" alt="nuxtjs logo" />
           </td> 
+          <td align="center" width="6%">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" width="auto" alt="C programming logo" />
+          </td>
         </tr>
         <tr>
           <td align="center" width="6%">
@@ -81,9 +84,6 @@
           </td>
           <td align="center" width="6%">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" width="auto" alt="Next.js logo" />
-          </td>
-          <td align="center" width="6%">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" width="auto" alt="C programming logo" />
           </td>
         </tr>
       </tbody>
