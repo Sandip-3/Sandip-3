@@ -42,15 +42,6 @@
           <td align="center" width="6%">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
           </td>
-          <td align="center" width="6%">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo" />
-          </td>
-          <td align="center" width="6%">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo" />
-          </td>
-          <td align="center" width="6%">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="60" alt="vuetify logo" />
-          </td>
         </tr>
         <tr>
           <td align="center" width="6%">
@@ -73,6 +64,17 @@
           </td>
           <td align="center" width="6%">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="60" alt="nuxtjs logo" />
+          </td> 
+        </tr>
+        <tr>
+          <td align="center" width="6%">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo" />
+          </td>
+          <td align="center" width="6%">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo" />
+          </td>
+          <td align="center" width="6%">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="60" alt="vuetify logo" />
           </td>
           <td align="center" width="6%">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="60" width="auto" alt="Tailwind CSS logo" />
