@@ -10,14 +10,6 @@
 ## 💻 Languages and Tools:
 <div align="left" style="display: flex; width: 100%; justify-content: space-between; align-items: center;">
   <!-- Gif Image -->
- <style>
-  @media (max-width: 600px) {  /* Hide on small screens */
-    .hide-on-small {
-      display: none;
-    }
-  }
-</style>
-
 <!-- Image inside a div to control layout -->
 <div style="flex: 1; padding-right: 20px;">
   <img class="hide-on-small" align="right" height="160" width="120" 
