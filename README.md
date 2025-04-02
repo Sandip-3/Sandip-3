@@ -10,9 +10,19 @@
 ## 💻 Languages and Tools:
 <div align="left" style="display: flex; width: 100%; justify-content: space-between; align-items: center;">
   <!-- Gif Image -->
-  <div style="flex: 1; padding-right: 20px;">
-    <img align="right" height="160" width="120" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" />
-  </div>
+ <style>
+  @media (max-width: 600px) {  /* Hide on small screens */
+    .hide-on-small {
+      display: none;
+    }
+  }
+</style>
+
+<!-- Image inside a div to control layout -->
+<div style="flex: 1; padding-right: 20px;">
+  <img class="hide-on-small" align="right" height="160" width="120" 
+       src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" />
+</div>
   
   <!-- Table inside a flex container -->
   <div style="flex: 3;">
