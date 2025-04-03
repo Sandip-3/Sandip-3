@@ -4,7 +4,7 @@
 
 ### A little more about me...
 
-<p align="left">- ⚡  I love math, programming, data science, and books<br>- 🌎 I  addicted to learning and growing every day<br>- 💬 Ask me about Python<br>- 😎 Extremely funny<br>- ⚡  Fun fact: Computer is DUMB...!!<br>- 🤪 Love to solve errors in code</p>
+<p align="left">- ⚡  I love math, programming, data science, and books<br>- 🌎 I am addicted to learning and growing every day<br>- 💬 Ask me about Python<br>- 😎 Extremely funny<br>- ⚡  Fun fact: Computer is DUMB...!!<br>- 🤪 Love to solve errors in code</p>
 
 ###
 ## 💻 Languages and Tools:
