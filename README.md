@@ -130,7 +130,7 @@
 
 <br clear="both">
 <div align="center">
-  <h2>My Contributions 💪</h2>
+  <h2>My Contributions 💪🦾</h2>
   <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/sandip-3/sandip-3/output/snake.svg" alt="Snake animation" /></center>
